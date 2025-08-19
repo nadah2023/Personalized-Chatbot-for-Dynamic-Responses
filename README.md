@@ -1,4 +1,4 @@
-# SciBot - AI Chatbot for Research Paper Understanding 🤖
+# SciBot - Your AI Assistant for Research Paper Comprehension🤖
 
 
 
