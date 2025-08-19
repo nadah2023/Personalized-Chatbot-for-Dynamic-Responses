@@ -270,10 +270,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-GannaTullah Gouda - https://www.linkedin.com/in/gannatullah-gouda/
-                    gannaasaad@gmail.com
-
-Project Link: https://github.com/GannaAsaad/Personalized-Chatbot-Project 
+Nada Hussain Mokhtar - https://www.linkedin.com/in/nada-hussain-mokhtar/
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
