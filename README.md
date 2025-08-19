@@ -238,10 +238,8 @@ SciBot is designed with flexibility for deployment:
 *   **API Key:** Requires a Gemini API Key, which should be managed securely.
 *   **Configuration:** Model parameters (e.g., temperature, max tokens) can be made configurable.
 *   **Secure Handling:** API keys and sensitive configurations are loaded via environment variables or `.env` files (using libraries like `python-dotenv`).
-## Output
-
-
-
+## Demo Video
+▶️ Watch SciBot Demo : https://drive.google.com/file/d/1qyN9FQ2rbuPX2cOTRf8ywtXf-BXNmRJT/view?usp=sharing
 
 <!-- ROADMAP -->
 ## Roadmap
